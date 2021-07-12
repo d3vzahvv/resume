@@ -1,0 +1,44 @@
+{
+    "name": "Shuo Wu",
+    "occupation": "Beijing Forestry University",
+    "location": "Zhejiang, PRC",
+    "avatar": "avatar.jpg",
+    "pronouns": "he / his",
+    "email": "wushuobjfu@gmail.com",
+    "website": "https://wushuo.ink",
+    "skills": [
+        "C/C++",
+        "Java SE",
+        "Verilog HDL / VHDL",
+        "Python",
+        "Android Native Develop",
+        "Web Design",
+        "Git"
+    ],
+    "languages": [
+        {
+            "name": "Chinese Mandarin",
+            "level": "Native"
+        },
+        {
+            "name": "English",
+            "level": "Basic"
+        },
+        {
+            "name": "Japanese",
+            "level": "Basic"
+        }
+    ],
+    "social": [
+        {
+            "name": "Github",
+            "user": "@wushuobjfu",
+            "url": "https://github.com/wushuobjfu"
+        },
+        {
+            "name":"Twitter",
+            "user":"SuWhuo",
+            "url":"https://twitter.com/suwhuo"
+        }
+    ]
+}
