@@ -5,7 +5,7 @@
     "avatar": "avatar.jpg",
     "pronouns": "he / his",
     "email": "wushuobjfu@gmail.com",
-    "website": "https://wushuo.ink",
+    "website": "https://wushuo.me",
     "skills": [
         "C/C++",
         "Java SE",
@@ -32,8 +32,8 @@
     "social": [
         {
             "name": "Github",
-            "user": "@wushuobjfu",
-            "url": "https://github.com/wushuobjfu"
+            "user": "@scrumbria",
+            "url": "https://github.com/scrumbria"
         },
         {
             "name":"Twitter",
